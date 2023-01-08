@@ -1,0 +1,11 @@
+# ArUcOmni: detection of highly reliable fiducial markers in panoramic images
+-------------------------------------------------------------------
+This is an adaptation of ArUco for panoramic cameras such as catadioptric and fisheye sensors. Two main steps were adapted are:
+
+* Homography estimation to get the canonical form of the potential marker.
+* Warping.
+* Pose estimation.
+
+![ArUcOmni example](https://i.imgur.com/piwHjCu.png)
+
+For more information: https://hal.archives-ouvertes.fr/hal-02560121
