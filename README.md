@@ -35,6 +35,10 @@ As an output, you should get the input image with marker detection, as well as t
 
 ![ArUcOmni example](https://i.imgur.com/piwHjCu.png)
 
+## Open source dataset
+To download our open source dataset, please visit [the link](https://home.mis.u-picardie.fr/~g-caron/en/index.php?page=8#ArUcOmni
+).
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
