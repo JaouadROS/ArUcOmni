@@ -28,7 +28,7 @@ cd ArUcOmni/build/utils
 # and run aruco_test to show the inputs needed
 ./aruco_test
 
-# Here is an example of running aruco_test using our open-source data set
+# Here is an example of running aruco_test using our open-source dataset (check the next section to download the dataset)
 ./aruco_test ArUcOmni_dataset/acquired_images/catadioptric/3_plane_marker/image_20.png -c intrinsics_barreto_catadioptric.yaml -s 24.4 -d OPENCV_4X4_1000.dict
 ```
 As an output, you should get the input image with marker detection, as well as the projection of a 3D frame XYZ that demonstrates that the estimated pose is visually correct.
